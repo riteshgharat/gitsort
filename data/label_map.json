@@ -1,0 +1,18 @@
+{
+  "label2id": {
+    "Bug": 0,
+    "Feature Request": 1,
+    "Documentation": 2,
+    "Question": 3,
+    "Performance": 4,
+    "Security": 5
+  },
+  "id2label": {
+    "0": "Bug",
+    "1": "Feature Request",
+    "2": "Documentation",
+    "3": "Question",
+    "4": "Performance",
+    "5": "Security"
+  }
+}
